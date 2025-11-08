@@ -1,0 +1,241 @@
+body {
+    background-image:url("preview.jpg");
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  
+}
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background-image:url("preview.jpg");
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  
+}
+
+.navbar {
+    background-color: #000; 
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff; 
+}
+
+.navbar-inverse{
+    background-color: #000000;
+    color: #000000;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.6); 
+    border-radius: 10px; 
+    padding: 20px;
+}
+
+.container h1, .container p {
+    color: #fff;
+}
+
+.image-box {
+    background-color: rgba(0, 0, 0, 0.6); 
+    border-radius: 10px; 
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.image-box img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: rgba(40, 38, 38, 0.8); 
+    text-align: center;
+    padding: 40px;
+}
+
+
+ body {
+    background-color: #121212; 
+    color: #fff; 
+}
+
+.navbar {
+    background-color: #000000;
+    color: #fff;
+}
+
+.jumbotron {
+    background-image: url('');
+    background-size: cover;
+    color: #020202;
+    text-align: center;
+    padding: 100px 0;
+}
+.container1s {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.form-group button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #0056b3;
+}
+
+
+.scroll-top-btn {
+    display: none;
+    position:relative;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+  
+
+
+
+footer {
+    background-color: rgba(0, 0, 0, 0.686); 
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container11 {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container11 h1 {
+    text-align: center;
+}
+
+#booking-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group select {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group select {
+    height: 40px; /* Adjust the height as needed */
+}
+
+.form-group button {
+    background: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.form-group button:hover {
+    background: #040404;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
